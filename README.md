@@ -21,7 +21,7 @@ I'm not sure what you would be doing to need help...
 [https://github.com/EricDWilkey/OpenScience/blob/master/CONTRIBUTING.md]
 
 ### A code of conduct: 
-[https://github.com/EricDWilkey/OpenScience/blob/master/CODE_OF_CONDUCT.md]
+[code of conduct:](https://github.com/EricDWilkey/OpenScience/blob/master/CODE_OF_CONDUCT.md)
 
 ### A description of the project structure:
 I am following an online MOOC: [https://opensciencemooc.eu/]
