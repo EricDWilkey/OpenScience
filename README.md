@@ -18,7 +18,7 @@ I'm not sure what you would be doing to need help...
 [https://github.com/EricDWilkey/OpenScience/blob/master/LICENSE]
 
 ### A link to the contributing guidelines:
-[https://github.com/EricDWilkey/OpenScience/blob/master/CONTRIBUTING.md]
+[contributing guidelines](https://github.com/EricDWilkey/OpenScience/blob/master/CONTRIBUTING.md)
 
 ### A code of conduct: 
 [code of conduct:](https://github.com/EricDWilkey/OpenScience/blob/master/CODE_OF_CONDUCT.md)
